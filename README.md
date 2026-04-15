@@ -14,6 +14,9 @@ By integrating link analysis and user-friendly learning modules, CyberGuard not 
 •	To provide the tutorials about the scam, phishing.
 •	To play the quiz after completing the tutorial according to the category of tutorials.
 
+
+![image alt](https://github.com/bsntt/CyberGuard/blob/1c6846697d63cf299f4559b2ffc278e1fa595465/Screenshot%202026-04-02%20091901.png)
+
 ![image alt](https://github.com/bsntt/CyberGuard/blob/ad0c86b0330ca77057828f43fac6d304f290bbab/Screenshot%202026-04-01%20190304.png)
 
 
