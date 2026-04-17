@@ -29,7 +29,7 @@ class ScanUrlScreen extends StatefulWidget {
 
 class _ScanUrlScreenState extends State<ScanUrlScreen> {
   static const String googleApiKey =
-      "AIzaSyA3U4C1CNLY95WQUHSI8PUEDpi12DuexJ0";
+      "API KEYES";
 
   final TextEditingController _urlController = TextEditingController();
 
