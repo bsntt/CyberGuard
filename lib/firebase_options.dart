@@ -46,34 +46,3 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDvMf3HCgzCa-nOjyqN4Dll1IbGCKOmKKU',
-    appId: '1:838480195598:web:80ff94a2eb7626c4404c5f',
-    messagingSenderId: '838480195598',
-    projectId: 'testing-f3f63',
-    authDomain: 'testing-f3f63.firebaseapp.com',
-    databaseURL: 'https://testing-f3f63-default-rtdb.firebaseio.com',
-    storageBucket: 'testing-f3f63.firebasestorage.app',
-    measurementId: 'G-S931YXE5SD',
-  );
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDMWhEZ8YHzloxOPf-jQZUAyKcEyKf51SM',
-    appId: '1:838480195598:android:7645cec4e68bd07f404c5f',
-    messagingSenderId: '838480195598',
-    projectId: 'testing-f3f63',
-    databaseURL: 'https://testing-f3f63-default-rtdb.firebaseio.com',
-    storageBucket: 'testing-f3f63.firebasestorage.app',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyACDZ42TqQ_6eKPuXa_6Xq1V3IMF1K62gk',
-    appId: '1:838480195598:ios:1327ecd4e1a02f3e404c5f',
-    messagingSenderId: '838480195598',
-    projectId: 'testing-f3f63',
-    databaseURL: 'https://testing-f3f63-default-rtdb.firebaseio.com',
-    storageBucket: 'testing-f3f63.firebasestorage.app',
-    iosBundleId: 'com.example.testingcounter',
-  );
-
-}
